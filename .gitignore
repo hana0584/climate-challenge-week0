@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+.ipynb_checkpoints/
+
+# Data files (important: don't commit CSVs!)
+data/
+*.csv
+*.xlsx
+*.xls
+
+# VS Code
+.vscode/
+.history/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs
+*.log
