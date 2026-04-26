@@ -44,3 +44,6 @@ venv/
 
 # Logs
 *.log
+# Prevent accidental commit of large data files
+data/
+*.csv
